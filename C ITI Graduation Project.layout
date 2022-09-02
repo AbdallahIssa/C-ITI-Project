@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="BANK_program.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23631" topLine="223" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="32" />
+			<Collapse line="106" />
+			<Collapse line="156" />
+			<Collapse line="203" />
+			<Collapse line="217" />
+			<Collapse line="381" />
+			<Collapse line="408" />
+			<Collapse line="443" />
+			<Collapse line="461" />
+			<Collapse line="467" />
+			<Collapse line="473" />
+			<Collapse line="497" />
+			<Collapse line="753" />
+			<Collapse line="759" />
+			<Collapse line="786" />
+			<Collapse line="792" />
+			<Collapse line="809" />
+			<Collapse line="818" />
+			<Collapse line="835" />
+			<Collapse line="845" />
+		</Folding>
+	</File>
+	<File name="STD_TYPES.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="327" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="BANK_Private.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="66" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="BANK_Config.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="207" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="202" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="BANK_Interface.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1347" topLine="48" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

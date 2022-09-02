@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1662092752 source:c:\users\abdallah issa\desktop\iti\1 - c\c project\c iti graduation project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"STD_TYPES.h"
+	"BANK_Config.h"
+	"BANK_Interface.h"
+	"BANK_program.c"
+
+1662064862 c:\users\abdallah issa\desktop\iti\1 - c\c project\c iti graduation project\std_types.h
+
+1662088004 c:\users\abdallah issa\desktop\iti\1 - c\c project\c iti graduation project\bank_config.h
+
+1662091639 c:\users\abdallah issa\desktop\iti\1 - c\c project\c iti graduation project\bank_interface.h
+	"STD_TYPES.h"
+
+1662110408 c:\users\abdallah issa\desktop\iti\1 - c\c project\c iti graduation project\bank_program.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"STD_TYPES.h"
+	"BANK_Interface.h"
+	"BANK_Private.h"
+
+1662075780 c:\users\abdallah issa\desktop\iti\1 - c\c project\c iti graduation project\bank_private.h
+
