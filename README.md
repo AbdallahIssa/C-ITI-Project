@@ -1,5 +1,5 @@
 # C_ITI_Project
-Bank System graduation project with Cpp for ITI Embedded System Track.
+Bank System graduation project with C for ITI Embedded System Track.
 
 ## Table of Contents
 * [General Info](#general-information)
