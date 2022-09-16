@@ -1,4 +1,4 @@
-# CPP_ITI_Project
+# C_ITI_Project
 Bank System graduation project with Cpp for ITI Embedded System Track.
 
 ## Table of Contents
@@ -12,15 +12,15 @@ Bank System graduation project with Cpp for ITI Embedded System Track.
 
 ## General Information
 
-- This is the cpp graduation project in ITI Embedded System Track.
+- This is the C graduation project in ITI Embedded System Track.
 - It is a Bank System that serves the modes of Admin and client and functionalities for both modes
 
 
 ## Technologies Used
 
-- cpp language with applying OOP concepts.
-- IDE : VS code.
-- Compiler : g++.
+- C language.
+- IDE : CodeBlocks.
+- Compiler : GCC.
 
 ## Features
 
